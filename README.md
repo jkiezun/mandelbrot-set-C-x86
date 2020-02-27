@@ -8,5 +8,5 @@ Allegro library - https://liballeg.org/
 
 ### Compiling and running
 
-Compile the program with make command
+Compile the program with make command \n
 Run it with ./main
